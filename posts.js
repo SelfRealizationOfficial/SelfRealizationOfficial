@@ -110,41 +110,4 @@ const posts = [
     `
   },
 
-  {
-    id: "mirror-life",
-    title: "Be the Reflection You Seek",
-    excerpt: "People reflect what you carry inside. The world is not separate from you.",
-    date: "19th May 2026",
-    content: `
-      <p>The world is not separate from you.</p>
-      <p>What you judge in others often exists within you in some form — dressed differently, perhaps, or buried beneath a more acceptable name. But it is there.</p>
-      <p>The Sufi masters spoke of this constantly: that the outer world is a mirror, not a stage. That before you try to change what you see, you must look honestly at who is doing the looking.</p>
-      <p>This is not comfortable. It is, however, extraordinarily useful.</p>
-      <p>The next time someone frustrates you, pause. Not to excuse their behaviour, but to ask: where does this frustration actually live?</p>
-
-      <div class="article-end">
-        <a href="articles.html">← Back to all reflections</a>
-      </div>
-    `
-  },
-
-  {
-    id: "silence-answers",
-    title: "Silence is Not Empty",
-    excerpt: "Reflection often begins where noise ends. Silence is not nothingness — it is awareness without distraction.",
-    date: "18th May 2026",
-    content: `
-      <p>Silence is not nothingness. It is awareness without distraction.</p>
-      <p>We live in an age that treats silence as a problem to be solved — a gap to fill, an awkwardness to escape. We carry noise with us everywhere, not because we love it, but because we have forgotten how to exist without it.</p>
-      <p>When the mind stops reacting, something else begins. Not emptiness — presence. The kind that can hear what was always there but never had space to be heard.</p>
-      <p>The mystics called it <em>fana</em> — the dissolving of the self into stillness. You don't have to go that far. Start with five minutes. No phone. No music. No task. Just you, and whatever arises.</p>
-      <p>It will feel uncomfortable at first. That discomfort is the noise inside you, meeting silence for the first time.</p>
-      <p>Sit with it.</p>
-
-      <div class="article-end">
-        <a href="articles.html">← Back to all reflections</a>
-      </div>
-    `
-  }
-
 ];
