@@ -3,9 +3,47 @@
 const posts = [
 
   {
+    id: "Metanoia",
+    title: "Metanoia, the Will to Live.",
+    excerpt: "A meditation on inner change — where breaking becomes becoming, and silence turns into understanding.",
+    date: "29th May 2026",
+    content: `
+      <p>I was scrolling through reels on Instagram — as usual — when I landed on “hopecore”: reels that give people hope, a reason to smile, a reason to be kind. In the comments, someone asked if there was a term that could be considered the antonym of suicide. That’s when I learned about “metanoia.”</p>
+      <p>Metanoia, in very simple terms, means a shift in one’s perspective about life — a reorientation. Derived from the Ancient Greek words <i>meta</i> (“beyond” or “after”) and <i>noein</i> (“to think”), it literally means “to think again.”</p>
+      <p>Metanoia can also be seen as a kind of rebirth: the death of the old self and the birth of a new one. Some even describe this transformation as reaching a state of illumination.</p>
+      <p><b>Peter Senge</b>, in his work on “learning organizations,” describes metanoia as a “shift of mind.” He argues that the core meaning of learning has been lost. To him, real learning involves a radical movement of the mind that allows a person to re-perceive the world and their relationship to it. One of the most important shifts he describes is moving from seeing problems as caused by something “out there” to recognizing how one’s <b>own</b> actions create the very problems being experienced. Surprising.</p>
+      <p>I’d advise against confusing <i>self-awareness</i> with <i>self-hatred</i>. One opens the door to metanoia, while the other opens the door to depression and feelings of worthlessness.</p>
+      <p>Though personal struggle can become a catalyst for collective healing and justice, one must not intentionally put themselves through pain or suffering merely for the sake of experiencing transformation. That would simply be self-harm.</p>
+      <p>In psychology, a breakdown can sometimes be seen as a <b>“breakthrough”</b> — the inner self’s attempt to heal through complete rebirth. It can facilitate a shift from an ego-centered existence to a higher state of consciousness and become a long process of self-assessment and turning back toward a higher purpose. What that “higher purpose” is, however, is for you to discover.</p>
+      <p>One can relate to metanoia through moments that interrupt a self-centered life. However, it requires the willingness to let go — of everything. One might even have to abandon what is comfortable in order to grow. If you are unwilling to change, you cannot reach metanoia.</p>
+      <p>Perhaps, for some, it is better to remain unchanged through everything. But for others, rebirth seems like a viable option.</p>
+      <p>Metanoia is often translated as repentance. In this sense, the closest equivalent of metanoia in Islam is <b><i>tawbah</b></i>. Tawbah is not a one-time event, but a lifelong commitment to becoming better, avoiding the repetition of past mistakes, and beginning anew. In other words, it is the constant redirection of one’s entire being back toward Allah.</p>
+      <p>Metanoia can therefore be considered hopeful: a result of receiving forgiveness rather than a way of earning it. In Islam, we believe that God’s encompassing mercy means there is always a point of return for the sinner. A sincere tawbah is believed to restore the soul to its original, blameless state.</p>
+      <p><i>Proclaim (O dear Prophet Mohammed – peace and blessings be upon him), “O my slaves, who have wronged themselves, do not lose hope in Allah’s mercy; indeed Allah forgives all sins; indeed He only is the Oft Forgiving, the Most Merciful.” <br> — Surah Az-Zumar 39:53</i></p>
+      <p>A key part of sincere tawbah for sins committed against others is restitution and asking the wronged person for forgiveness. This links the internal transformation of the heart to external acts of kindness and humility, even requiring the breaking down of the ego itself.</p>
+      <p>Imam Al-Ghazali viewed tawbah as the “first station” for a seeker on the journey of transforming the nafs (self) from a state enslaved by desires (nafs al-ammarah) to the “tranquil self” (nafs al-mutma’innah) that finds peace in God.</p>
+      <p><i>“Indeed, Allah loves those who are constantly repentant and loves those who purify themselves.” <br>— Surah Al-Baqarah 2:222</i></p>
+      <p>Imam Al-Ghazali also outlined a methodology for spiritual transformation:</p>
+      <p><strong>Starving the Ego:</strong> overcoming destructive appetites and attachment to wealth, status, and prestige.</p>
+      <p><strong>Repentance:</strong> using the state of nafs al-lawwamah — where one recognizes their faults and feels genuine remorse — to continuously repent and resist future sins.</p>
+      <p><strong>Contemplation and Seclusion:</strong> spending time in quiet reflection to weaken worldly distractions and the whispers of the ego.</p>
+      <p><i>“If it assumes calmness under command and has removed from itself the disturbance caused by the onslaught of passion, it is called ‘the satisfied soul’ (al-nafs al-mutma’inna).” <br>— Imam Al-Ghazali</i></p>
+      <p>Rabia al-Basri, renowned for emphasizing Ishq-e-Haqiqi (Divine Love), believed that the starting point for turning toward God should be pure love rather than fear of Hell or desire for Paradise. She described the true knower as someone whose heart belongs to God alone.</p>
+      <p><i>“O God! If I worship You for fear of Hell, burn me in Hell. If I worship You in hope of Paradise, exclude me from Paradise. But if I worship You for Yourself alone, do not deny me Your eternal beauty.” <br> — Rabia al-Basri R.A</i></p>
+      <p>Mawlana Jalal ad-Din Muhammad Rumi invited seekers to “cleanse yourself of all attributes of self” in order to discover their radiant essence. He compares the awakening of the soul to a mother experiencing the pains of childbirth. This inner pain drives the seeker toward Divine sustenance and the awakening of the heart.</p>
+      <p>Rumi suggests this transformation is facilitated through love, which burns away ego and desire. He teaches that the human being has a divine mission that only a purified soul can fulfill, becoming the “Perfect Human” (Al-Insan al-Kamil). This requires a willingness to be “nothing” before the Beloved, effectively “dying before death”.</p>
+      <p><i>“Out beyond ideas of wrongdoing and rightdoing, there is a field. I’ll meet you there.” <br>— Rumi</i></p>
+      <p>This is a quintessential invitation to “metanoia” — stepping away from rigid ego-based judgments into a space of unconditional love and awareness.</p>
+      <p>The will to live, to become better, to become kinder, to become what you were meant to be — that is metanoia.</p>
+      <p>A reminder that <b>YOU</b> matter.</p>
+      `,
+      
+  },
+
+  {
     id: "Solipsism",
     title: "Solipsism: Comfort, Collapse, and Consciousness",
-    excerpt: "A look into solipsism and what it does to one.",
+    excerpt: "A contemplation of consciousness, where reality blurs and the self searches for meaning beyond illusion and form.",
     date: "25th May 2026",
     content: `
       <p>Once in a while, the night becomes unbearably quiet, the weight of responsibilities feels devastatingly crushing, and life starts to feel stuck in a loop.
