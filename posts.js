@@ -36,6 +36,9 @@ const posts = [
       <p>This is a quintessential invitation to “metanoia” — stepping away from rigid ego-based judgments into a space of unconditional love and awareness.</p>
       <p>The will to live, to become better, to become kinder, to become what you were meant to be — that is metanoia.</p>
       <p>A reminder that <b>YOU</b> matter.</p>
+      <div class="article-end">
+        <a href="articles.html">← Back to all reflections</a>
+      </div>
       `,
       
   },
