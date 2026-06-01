@@ -4,7 +4,7 @@ const posts = [
 
   {
     id: "Metanoia",
-    title: "Metanoia, the Will to Live.",
+    title: "Metanoia: Mindful Metamorphosis",
     excerpt: "A meditation on inner change — where breaking becomes becoming, and silence turns into understanding.",
     date: "29th May 2026",
     content: `
