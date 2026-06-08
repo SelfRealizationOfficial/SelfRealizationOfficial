@@ -2,6 +2,54 @@
 
 const posts = [
 
+
+  {
+    id: "The Hero Syndrome",
+    title: "The Hero Complex: The Pursuit of Praise",
+    excerpt: "The most dangerous mask isn't worn by villains—it’s worn by people convinced they're the hero.",
+    date: "8th June 2026",
+    content: `
+    <p>In your life, ever, have you felt the need to be appreciated for your kind acts? Or did you ever just get tired of being nice to others without getting anything in return?</p>
+    <p>Everyone, at some point in their life, hears a thought; sometimes faint, sometimes loud: <i>“I’ve had enough.”</i></p>
+    <p>Now, this phrase can be used anywhere, but when we talk about being kind to others, there is a limit. And that is totally normal. If you feel like you’re in an unrequited relationship, you have the right to walk away.</p>
+    <p>The problem is when you stay and try to make them realize how nice you are. A hero of sorts. Someone who doesn’t back away no matter what and is always nice.</p>
+    <p>The Hero Complex. A syndrome where one may go to extreme lengths to feel seen, appreciated, and loved.</p>
+    <p>It’s a psychological phenomenon where an individual has an intense, overwhelming need to be seen as a hero and constantly seeks recognition and praise for "valiant" or philanthropic acts.</p>
+    <p>Much like imposter syndrome, narcissism, people pleaser, self-centered, and self-absorption, this hero complex may drive one to extreme lengths for validation. Though wearing a mask doesn’t make you a hero, this mask of heroism may give one a false sense of authority.</p>
+    <p>Some may create a false urgent scene just to be the first to “discover” it and be the hero. Ultimately, putting others at risk just to maintain their false persona. It may even lead to stealing others’ work or taking credit for something someone else did, therefore, creating a hostile environment for peers.</p>
+    <p>In Islam, <i>Ikhlas (sincerity)</i> is promoted. Deeds should be done solely for God, not for human praise. Showing off, insincere acts, or seeking recognition from others is called “riya” in Arabic; which literally translates to "showing off," "ostentation," or "pretending." Many Sufis emphasized on the struggle against the ego (Nafs), which is described as the “greater Holy War”. Hero syndrome may be seen as a manifestation of Nafs e Ammara (The Commanding Self) seeking validation and power.</p>
+    <p>I see the <b>Fear Of Missing Out (FOMO)</b> as a part of the factor that leads to Hero Syndrome.</p>
+    <p>When you see everyone successful, whether you’re scrolling reels or just going to the market to buy something, and see someone your age doing so much better than you. When you’re reminded that you are behind someone in life. When life is harsher to you than to anyone you see around yourself. When you just want to prove to others that you EXIST, that you are not behind anyone, that you matter. When your sole purpose becomes ostentation, you start to let go of yourself and adopt a persona.</p>
+    <p>Shakespeare's famous line, "All the world's a stage, and all the men and women merely players," is often romanticized. But people often forget that there is a director, a writer, and most importantly, behind every perfect character, is an actor who let go of themself and became something new entirely.</p>
+    <p>Existentialist philosophy, particularly in the work of Heidegger and Sartre, warns against living inauthentically by conforming to the “crowd” or seeking external validation for one’s existence.</p>
+    <p>“The perfect man” probably only exists on paper. Whether it’s a book, a movie, or a show about a “hero”, they’re all still fictional.</p>
+    <p>Then who is this hero? What does a hero look like? How can I be a hero?</p>
+    <p>Philosophy often distinguishes the “Glory Hound” from the “Humble Hero,” who avoids attention and performs duty out of empathy rather than a need for limelight. Limelight: an addiction that destroys a person. After struggling for years, you’re given a small dose of validation, then another and another, and then suddenly a large dose.</p>
+    <p>You’re in the limelight, every eye is on you. Suddenly, you forgot how to struggle, how to fight for what you want, or you now have. Slowly, the light dims out, and another “hero” emerges. Now you’re left empty.</p>
+    <p>So far, I think life has no definite destination. Or to phrase it better, a man cannot EVER set a destination for himself. The moment you reach your set destination, you want more.</p>
+    <p>You helped a friend, they expressed gratitude, and you felt good. So you help someone else. But they don’t thank you. You’re left feeling annoyed now. You want acknowledgement. You “deserve” it. So you help another, then another. You collect “thank yous” like antiquities</p>
+    <p>You’ve forgotten the feeling of appreciation, now you want something more. Desperation takes over.</p>
+    <p>Since we were toddlers, we’ve all wanted to be heroes. The ones we saw in cartoons. Eventually, our bubble is burst when we find out that they’re fictional characters. While it may feel like we gave up on our pursuit to heroism, part of it still creeps into our daily actions.</p>
+    <p>Ask yourself, “Am I doing this because it’s needed, or because I want to feel valued?”</p>
+    <p>There are a few ways to avoid this false “heroism”. Two of which are:</p>
+    <ol> <li> <p>Gratitude: Always be grateful for what you have AND what you don’t have. <br>
+    <br><i>“But perhaps you hate a thing and it is good for you; and perhaps you love a thing and it is bad for you. And Allah knows, while you know not.”
+    <br>– Surah Al-Baqarah (2:216)</i></p>
+    <p>There is a Persian analogy that says:<br>
+    <i>“You are looking at the underside of a carpet. You see knots, loose threads, tangles, and apparent chaos. God sees the top side. The pattern makes sense from above. Your confusion comes from seeing only one side of the work.”</i></p></li>
+    <li><p>Friends: The people you surround yourself with affect you, consciously, unconsciously, physically, and mentally. Your friends shape you. If you’re surrounded by God-loving people, ones who are always grateful, and people who genuinely care, you will become like them. You will love God. You will be grateful. You will be kind.</p>
+    <p>Similarly, if you surround yourself with people who are never grateful for anything, always complain, who feel better by belittling others, and have no sincerity to their friends or family, you will become like them.</p>
+    <p><i>“Oh, woe to me! I wish I had not taken that one as a friend. He led me away from the remembrance after it had come to me. And ever is Satan, to man, a deserter.”<br>– Surah Al-Furqan (25:28-29)</p></li></ol>
+    <p>The question remains, <i>“What is a hero?”</i> That is for all of us to find out. But until we do, let us take heroism as a trait of the one who is of the best character and manners.</p>
+    <p>Allah's Messenger (ﷺ) said, “The best among you are those who have the best manners and character.” <br>– Sahih Bukhari 6029 The Book Of Al-Adab (Good Manners)</p>
+    <p>Let us not wait for this hero to come into our lives. Let us be this hero.</p>
+      <div class="article-end">
+        <a href="articles.html">← Back to all reflections</a>
+      </div>
+      `,
+      
+  },
+  
   {
     id: "Metanoia",
     title: "Metanoia: Mindful Metamorphosis",
